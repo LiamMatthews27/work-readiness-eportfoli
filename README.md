@@ -40,7 +40,8 @@ Communication – Creating my resume and cover letter helped me explain who I am
 
 Teamwork – Working in a team taught me how to share ideas, support others, and meet deadlines together. We had to rely on each other, and that helped us build trust and work efficiently.
 
-Problem-Solving – The PowerPoint slides from our project show how we broke down tasks and came up with solutions. It reminded me how planning and brainstorming as a team makes tough problems easier to handle.This PowerPoint explains the goal of our assignment, which is to take a traditional restaurant setup that doesn’t use much technology and turn it into a modern web-based system. The idea is to help the restaurant work more efficiently by using a digital system that can handle more customers, track orders better, and make everything run smoother from taking orders to updating them. Each slide in the presentation highlights the different steps we followed and the features we designed to improve the customer experience and overall restaurant management.
+Problem-Solving – The PowerPoint slides from our project show how we broke down tasks and came up with solutions. It reminded me how planning and brainstorming as a team makes tough problems easier to handle.
+This PowerPoint explains the goal of our assignment, which is to take a traditional restaurant setup that doesn’t use much technology and turn it into a modern web-based system. The idea is to help the restaurant work more efficiently by using a digital system that can handle more customers, track orders better, and make everything run smoother from taking orders to updating them. Each slide in the presentation highlights the different steps we followed and the features we designed to improve the customer experience and overall restaurant management.
 
 
 
