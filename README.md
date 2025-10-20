@@ -30,7 +30,7 @@ Here are artefacts I’ve collected:
 <img width="1920" height="1080" alt="Screenshot (212)" src="https://github.com/user-attachments/assets/4ced62d1-3a7d-44a0-a4a6-103aff1596d7" />
 ]<img width="1920" height="1080" alt="Screenshot (211)" src="https://github.com/user-attachments/assets/94017822-1e33-4895-b8e7-a35c3ef67d78" />
 
-- Full Stack Website -  
+
 
 
 
@@ -78,13 +78,15 @@ In essence, this portfolio tells the story of who I have become through what I h
 
 ## 🧠 Conclusion
 
-This e-portfolio is a snapshot of my readiness for the world of work. Through a combination of academic performance, technical experience, and personal growth, I have built a strong foundation for future opportunities.
+This portfolio represents the foundation of my professional journey, showcasing a blend of technical proficiency, collaborative experience, and a commitment to continuous learning. I have built a robust skill set and am now eager to apply it in a practical, professional setting.
 
-I’m actively seeking:
-- 🎓 Internship or graduate roles in software development or tech support
-- 🌍 Opportunities to grow in a team environment
-- 🚀 Challenges where I can apply my skills and continue learning
+I am actively seeking:
 
+🎓 Internship or Graduate Roles in software development, full-stack engineering, or technical support.
+
+🌍 A Collaborative Team Environment where I can contribute, learn from experienced mentors, and grow as a professional.
+
+🚀 Challenging Projects that allow me to apply my problem-solving skills and passion for technology to create tangible value.
 
 ## 📬 Contact
 
