@@ -22,11 +22,17 @@ Here are artefacts I’ve collected:
 
 - 📄 Resume PDF [Liam Matthews.pdf](https://github.com/user-attachments/files/20413460/Liam.Matthews.pdf)
  
-- 📝 Cover Letter  [Cover Letter.docx](https://github.com/user-attachments/files/20413509/Cover.Letter.docx)
+- 📝 Cover Letter  [Cover Letter.docx][Cover.Letter.docx][Cover.Letter.docx](https://github.com/user-attachments/files/23006520/Cover.Letter.docx)
 
-- 📊 PowerPoint Slides  [ADT-Assignment 1.pptx](https://github.com/user-attachments/files/20413782/ADT-Assignment.1.pptx)
 
-- 📸 Teamwork Photo    ![Screenshot of My Teamwork on a our Capstone Project for a Library Booking System](https://github.com/user-attachments/assets/fbc274ac-d049-44ab-bfcd-6a726022806d)
+
+- 📊 PowerPoint Slides  [ADT-Assignment 1.pptx][EntrepreNet PRM.docx](https://github.com/user-attachments/files/23003546/EntrepreNet.PRM.docx)
+
+- 📸 Teamwork Photo    ![Screenshot of My Teamwork on a our Capstone Project for a car auction ayatem<img width="1920" height="1080" alt="Screenshot (213)" src="https://github.com/user-attachments/assets/0756b0ab-5d96-4572-880f-d5c4e76116bc" />
+<img width="1920" height="1080" alt="Screenshot (212)" src="https://github.com/user-attachments/assets/4ced62d1-3a7d-44a0-a4a6-103aff1596d7" />
+]<img width="1920" height="1080" alt="Screenshot (211)" src="https://github.com/user-attachments/assets/94017822-1e33-4895-b8e7-a35c3ef67d78" />
+
+
 
 
 
@@ -36,17 +42,13 @@ Here are artefacts I’ve collected:
 
 The artefacts I chose show some of the key skills I’ve developed during my studies:
 
-Communication – Creating my resume and cover letter helped me explain who I am and what I’ve achieved in a professional way. It made me more confident in presenting myself to future employers.
+Communication – Creating professional documents like my resume, cover letter, and a comprehensive project report for "EntrepreNet" honed my ability to articulate complex ideas clearly. I learned to tailor my communication for different audiences, from writing technical project charters for stakeholders to presenting my own achievements to potential employers.
 
-Teamwork – Working in a team taught me how to share ideas, support others, and meet deadlines together. We had to rely on each other, and that helped us build trust and work efficiently.
+Teamwork & Leadership – The EntrepreNet project required me to define team roles and responsibilities using a RACI chart, ensuring clear accountability. This experience taught me how to structure collaboration effectively. I learned that successful teamwork relies on defined processes, mutual support, and shared ownership of deadlines to build trust and work efficiently.
 
-Problem-Solving – The PowerPoint slides from our project show how we broke down tasks and came up with solutions. It reminded me how planning and brainstorming as a team makes tough problems easier to handle.
-This PowerPoint explains the goal of our assignment, which is to take a traditional restaurant setup that doesn’t use much technology and turn it into a modern web-based system. The idea is to help the restaurant work more efficiently by using a digital system that can handle more customers, track orders better, and make everything run smoother from taking orders to updating them. Each slide in the presentation highlights the different steps we followed and the features we designed to improve the customer experience and overall restaurant management.
+Problem-Solving – My project report includes a detailed Risk Register and Quality Management Plan, showing my systematic approach to problem-solving. For EntrepreNet, I proactively identified potential issues like regulatory compliance and data breaches, and developed mitigation strategies. This reinforced that planning and structured analysis are essential for navigating complex challenges, whether in a software project or a team assignment.
 
-
-
-
-Goal Setting – My timeline showed me how setting clear goals helped me stay on track, especially during busy times.
+Goal Setting & Project Planning – I created a full Project Schedule for EntrepreNet, including a Work Breakdown Structure (WBS) and an Agile Iteration Plan. This taught me how to break down a large, ambitious goal—like building a platform to verify SMEs—into manageable phases and sprints. This skill in setting clear, sequential goals was crucial for staying on track and managing my time during busy periods.
 
 
 
