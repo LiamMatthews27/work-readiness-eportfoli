@@ -27,8 +27,12 @@ Here are artefacts I’ve collected:
 - 📊 PowerPoint Slides  [ADT-Assignment 1.pptx][EntrepreNet PRM.docx](https://github.com/user-attachments/files/23003546/EntrepreNet.PRM.docx)
 
 - 📸 Teamwork Photo    ![Screenshot of My Teamwork on a our Capstone Project for a car auction ayatem<img width="1920" height="1080" alt="Screenshot (213)" src="https://github.com/user-attachments/assets/0756b0ab-5d96-4572-880f-d5c4e76116bc" />
+My Project group Project 
 <img width="1920" height="1080" alt="Screenshot (212)" src="https://github.com/user-attachments/assets/4ced62d1-3a7d-44a0-a4a6-103aff1596d7" />
 ]<img width="1920" height="1080" alt="Screenshot (211)" src="https://github.com/user-attachments/assets/94017822-1e33-4895-b8e7-a35c3ef67d78" />
+<img width="1920" height="1080" alt="Screenshot (240)" src="https://github.com/user-attachments/assets/4e279db2-ca57-45c8-bb88-b2771f74fc0f" />
+<img width="1920" height="1080" alt="Screenshot (236)" src="https://github.com/user-attachments/assets/60c20d12-53b7-4284-b773-6ee449a8260b" />
+
 
 
 
